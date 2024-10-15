@@ -22,7 +22,7 @@
        - A new window appears that provides information about the browser.
 
 
-    -  [Download From Here](https://chromedriver.storage.googleapis.com/index.html)
+    -  [Download From Here](https://chromedriver.storage.googleapis.com/index.html) prefer version close to chrome version
   
 
 ## After Install Driver go to **chromedriver.exe** and copy it as path abd put it in all chrome_driver that is used in all scripts.
