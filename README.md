@@ -26,3 +26,25 @@
   
 
 ## After Install Driver go to **chromedriver.exe** and copy it as path abd put it in all chrome_driver that is used in all scripts.
+
+#### In This Repository I deal with many topics like Handling 
+  - Date picker     
+  - Broken Images
+  - Broken Links 
+  - Browser Command 
+  - Drop Down 
+  - Basic Autothentication
+  - Drap and Drop
+  - Tabs
+  - Alerts
+  - Mouse Hover
+  - Resizable Element
+  - Sliders
+  - Tables
+  - Checkbox
+  - Iframe
+  - Implicit wait
+  - Explicit wait
+  - Data Driven Testing using Json File
+  - Data Driven Teating using csv File
+  - Data Driven Testing using Excel File 
